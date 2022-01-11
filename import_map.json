@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "oak": "https://deno.land/x/oak@v9.0.1/mod.ts",
+    "dotenv": "https://deno.land/x/dotenv@v3.1.0/mod.ts",
+    "fmt-color": "https://deno.land/std@0.53.0/fmt/colors.ts",
+    "controller/": "./src/controller/",
+    "config": "./src/config.ts"
+  }
+}
